@@ -2,7 +2,7 @@ package application;
 
 public class Person {
 	//Instance variables are initialized to their default value
-	String name;
+	public String name;
 	
 	//add a method to show behavior
 	void sayHello() {

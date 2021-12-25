@@ -18,6 +18,5 @@ public class MethodTest {
 		person1.name = "Andy";
 		Assert.assertEquals("Andy", person1.name);
 	};
-	
-	
+
 }
